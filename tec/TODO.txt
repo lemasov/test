@@ -1,0 +1,13 @@
+@TODO:
+*** ТЕЦ - проект по контролью за датчиками ТЕЦ, с уведомлениями о превышении или понижении данных
+1) Сделать UI
+1.1) Bootstrap Example !
+1.2) Читаей JSON
+1.3) Показываем результаты
+2) Сделать Эмулятор ТЕЦ
+2.1) Bootstrap Example !
+2.2) API Write to JSON
+3) JSON File: !
+3.1) Param1: min, max, now
+3.2) Param2: min, max, now
+....
